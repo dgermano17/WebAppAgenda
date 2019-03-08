@@ -1,0 +1,28 @@
+body{
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+}
+#header{
+	padding: 2em;
+	background-color: #fff;
+	border: solid grey 1px;
+}
+.card1{
+	text-align: center; 
+	padding: 2em;
+	background-color: #EEE;
+	color: #EEE;
+	border: solid grey 1px;
+	width: 20%;
+	margin: 1em auto;
+}
+
+#mainNav li{
+	display: block;
+	background-color: #2db5ce;
+	padding: 1em;
+}
+#mainNav li a{
+	color: white;
+	text-decoration: none;
+} 

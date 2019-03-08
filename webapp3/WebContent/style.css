@@ -1,0 +1,16 @@
+body{
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+}
+#header{
+	padding: 2em;
+	background-color: #bbb;
+}
+.card1{
+	padding: 1em;
+	background-color: #EEE;
+	color: #EEE;
+	border: solid grey 1px;
+	width: 20%;
+	margin: 1em;
+}

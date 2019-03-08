@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Agenda</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
+</head>
+<body>
+	<div id="header">
+		<h1>Cadastrar Contato</h1>
+	</div>
+	<div id="main">
+		<div class="card1">
+			<form>
+				<input type="text" name="text" placeholder="Nome">
+				<br>
+				<br>
+				<input type="date" name="dataNacimento">
+				<br>
+				<br>
+				<input type="email" name="email" placeholder="E-mail">
+				<br>
+				<br>
+				<input type="text" name="text" placeholder="Endereço">
+				<br>
+				<br>
+				<button type="submit">Salvar</button>
+			</form>
+		</div>
+	</div>
+		
+
+</body>
+</html>
